@@ -1,0 +1,30 @@
+# Gerado pelo programa ao rodar (recriado automaticamente; não vai para o git)
+cache/
+output/
+logs/
+modelos/
+
+# Ambiente Python criado pelo instalar.bat / instalar.sh
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Arquivos de vídeo, áudio e modelos soltos (grandes demais para o GitHub)
+*.mp4
+*.mkv
+*.webm
+*.m4a
+*.wav
+*.part
+*.bin
+*.safetensors
+
+# Temporários do sistema e de editores
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+# Cortes AI - dependencias (versoes testadas em 11/2026)
+yt-dlp[default]>=2026.10.26
+faster-whisper>=1.2.1,<2
+gradio>=6.31,<7
+opencv-python-headless>=4.9
+pillow>=11
+numpy>=2
+psutil>=6
+requests>=2.32
+imageio-ffmpeg>=0.6
+send2trash>=1.8
